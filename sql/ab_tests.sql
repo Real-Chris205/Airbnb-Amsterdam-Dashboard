@@ -1,11 +1,23 @@
 -- A/B TEST 1: PRICE SENSITIVITY
 -- ======================================
 
--- Find the median price
+-- Find the median price we count total rows with value and divide by 2
+
 SELECT 
-    PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY price) 
-    OVER () AS median_price
-FROM cleaned_listing;
+    count(*)from cleaned_listing where price is noT null and price > 0;
+
+--we then limit 2 and offset to derive the median value(offset count starts from 0)
+--so we minus 1 from the median after division
+
+Select 
+    avg(price) as median_price from ( select price from cleaned_listing
+ where price is not null and price > 0
+ order by price
+ limit 2 offset 5313 ) as sub;
+
+--the median number here is 120
+
+
 
 -- Compare booking activity for Low vs High price groups
 SELECT 
