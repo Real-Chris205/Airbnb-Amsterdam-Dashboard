@@ -94,6 +94,8 @@ GeoJSON - Neighborhood mapping layer
 
 - <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/cleaned_listing.csv">cleaned_listing</a>
 
+- <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/cleaned_review.csv">cleaned_review</a>
+
 
 
 
