@@ -120,6 +120,22 @@ GeoJSON - Neighborhood mapping layer
 <img width="1180" height="735" alt="AB TEst 4" src="https://github.com/user-attachments/assets/945c2f92-08b1-4dd1-ab1b-ee053980110b" />
 
 
+## What I Learned
+
+## This project forced me to really understand:
+
+How to clean messy Airbnb data
+
+Designing A/B tests in analytics
+
+Using DAX for grouping + calculated measures
+
+Visual storytelling (not just pretty charts)
+
+Communicating business insights simply
+
+And honestly,the biggest lesson was realizing how much small changes (like pricing or night rules) can completely change booking behavior.
+
 
 
 
