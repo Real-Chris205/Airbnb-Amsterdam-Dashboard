@@ -107,6 +107,10 @@ GeoJSON - Neighborhood mapping layer
 - <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/sql/analysis_queries.sql">Analysis_Queries.Sql</a>
 
 
+## Dashboard Preview
+
+<img width="1210" height="720" alt="Ab Overview" src="https://github.com/user-attachments/assets/15786b79-cc4b-4703-8ef2-cd5e7b65a51c" />
+
 
 
 
