@@ -96,6 +96,17 @@ GeoJSON - Neighborhood mapping layer
 
 - <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/cleaned_review.csv">cleaned_review</a>
 
+- <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/neighbourhoods.geojson">neighbourhoods.geojson</a>
+
+- <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/Airbnb.pbix">Dashboard_Interaction</a>
+
+- <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/sql/cleaning.sql">Cleaning.Sql</a>
+
+- <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/sql/ab_tests.sql">AB_Tests.Sql</a>
+
+- <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/sql/analysis_queries.sql">Analysis_Queries.Sql</a>
+
+
 
 
 
