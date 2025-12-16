@@ -1,4 +1,4 @@
-# Airbnb Amsterdam Analytics Dashboard — A/B Testing + Business Insights
+# 🏠 Airbnb Amsterdam Analytics Dashboard — A/B Testing + Business Insights
 
 This project started as a simple curiosity about Airbnb listings in Amsterdam and it turned into a full breakdown of how pricing, room type, booking rules, and seasonality affect demand.Everything here was cleaned, modeled, and visualized using SQL + Power BI, and the final dashboard walks through four A/B tests that help hosts understand what actually drives bookings.
 
@@ -19,7 +19,7 @@ Room-type distributions
 Basically: What does the Amsterdam Airbnb market look like at a glance?
 
 
-## A/B Test 1: Price Sensitivity
+## 🎯 A/B Test 1: Price Sensitivity
 
 ## Question:
 Do cheaper listings really get more bookings?
@@ -32,7 +32,7 @@ They also make up a slightly bigger share of available listings.
 Hosts who want steady bookings are better off pricing competitively.
 
 
-# A/B Test 2: Room Type Performance
+## 🏡 A/B Test 2: Room Type Performance
 
 ## Question:
 ## Which room type performs best—Entire homes, private rooms, or shared spaces?
@@ -49,7 +49,7 @@ Shared rooms barely exist in Amsterdam.
 Perfect mix for hosts = private rooms for demand and entire homes for revenue.
 
 
-## A/B Test 3: Minimum Nights Impact
+## 🛏️ A/B Test 3: Minimum Nights Impact
 
 ## Question:
 
@@ -65,7 +65,7 @@ And they represent a decent share of total listings.
 Strict policies hurt visibility and booking frequency.
 
 
-## A/B Test 4: Seasonality Effects
+##  🌦️ A/B Test 4: Seasonality Effects
 
 ## Question:
 ## How do peaks and dips across the year affect bookings?
@@ -81,7 +81,7 @@ Why it matters:
 Hosts should adjust pricing & minimum nights during slow months.
 
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 SQL (MySQL Workbench) - Data cleaning + preprocessing
 
@@ -90,7 +90,7 @@ Power BI and Power Query - Data cleaning, Data modeling, DAX, dashboard design
 GeoJSON - Neighborhood mapping layer
 
 
-## Project Files
+## 📂 Project Files
 
 - <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/cleaned_listing.csv">cleaned_listing</a>
 
@@ -107,7 +107,7 @@ GeoJSON - Neighborhood mapping layer
 - <a href="https://github.com/Real-Chris205/Airbnb-Amsterdam-Dashboard/blob/main/sql/analysis_queries.sql">Analysis_Queries.Sql</a>
 
 
-## Dashboard Preview
+## 📸 Dashboard Preview
 
 <img width="1210" height="720" alt="Ab Overview" src="https://github.com/user-attachments/assets/15786b79-cc4b-4703-8ef2-cd5e7b65a51c" />
 
@@ -120,7 +120,7 @@ GeoJSON - Neighborhood mapping layer
 <img width="1180" height="735" alt="AB TEst 4" src="https://github.com/user-attachments/assets/945c2f92-08b1-4dd1-ab1b-ee053980110b" />
 
 
-## What I Learned
+## 💬 What I Learned
 
 ## This project forced me to really understand:
 
@@ -135,6 +135,16 @@ Visual storytelling (not just pretty charts)
 Communicating business insights simply
 
 And honestly,the biggest lesson was realizing how much small changes (like pricing or night rules) can completely change booking behavior.
+
+## 📌 If You Want to Use This Dataset
+
+It was originally part of an open Airbnb dataset accessible online.
+
+
+
+
+## Built by
+Christian Onwuka
 
 
 
